@@ -1,0 +1,13 @@
+{
+    "coordX1":20,
+    "coordY1":20,
+	"coordX2":60,
+	"coordY2":60,
+	"coordX3":60,
+	"coordY3":60,
+	"coordX4":100,
+	"coordY4":20,
+	"color":"#ff0000",
+	"Text1":"Täällä ne viivat on",
+	"Text2":"Sait homman toimimaan. Hyvä!"
+}
